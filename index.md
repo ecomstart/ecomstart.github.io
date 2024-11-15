@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,7 +12,7 @@
             line-height: 1.6;
         }
         header {
-            background: #333;
+            background: #e8f7ef;
             color: #fff;
             padding: 1rem 0;
             text-align: center;
@@ -47,7 +47,7 @@
         footer {
             text-align: center;
             padding: 10px;
-            background: #333;
+            background: #25b15f;
             color: white;
             margin-top: 20px;
         }

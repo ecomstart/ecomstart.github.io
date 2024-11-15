@@ -12,7 +12,7 @@
             line-height: 1.6;
         }
         header {
-            background: #e8f7ef;
+            background: #000000;
             color: #fff;
             padding: 1rem 0;
             text-align: center;
@@ -23,7 +23,7 @@
             margin: 0;
             display: flex;
             justify-content: center;
-            background: #444;
+            background: #000;
         }
         nav ul li {
             margin: 0 15px;
@@ -47,7 +47,7 @@
         footer {
             text-align: center;
             padding: 10px;
-            background: #25b15f;
+            background: #000;
             color: white;
             margin-top: 20px;
         }

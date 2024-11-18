@@ -23,7 +23,7 @@
             margin: 0;
             display: flex;
             justify-content: center;
-            background: #000;
+            background: #fff;
         }
         nav ul li {
             margin: 0 15px;

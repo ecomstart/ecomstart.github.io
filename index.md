@@ -13,7 +13,7 @@
         }
         header {
             background: #f6f5f4;
-            color: #fff;
+            color: #000;
             padding: 1rem 0;
             text-align: center;
         }
@@ -30,7 +30,7 @@
         }
         nav ul li a {
             text-decoration: none;
-            color: #fff;
+            color: #000;
             font-weight: bold;
         }
         section {
@@ -48,7 +48,7 @@
             text-align: center;
             padding: 10px;
             background: #f6f5f4;
-            color: white;
+            color: black;
             margin-top: 20px;
         }
     </style>

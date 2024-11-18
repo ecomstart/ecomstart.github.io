@@ -12,7 +12,7 @@
             line-height: 1.6;
         }
         header {
-            background: #000000;
+            background: #f6f5f4;
             color: #fff;
             padding: 1rem 0;
             text-align: center;
@@ -47,7 +47,7 @@
         footer {
             text-align: center;
             padding: 10px;
-            background: #000;
+            background: #f6f5f4;
             color: white;
             margin-top: 20px;
         }

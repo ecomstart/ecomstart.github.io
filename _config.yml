@@ -7,6 +7,9 @@ url: "https://ecomstart.github.io" # Update with your site URL
 
 # Minima theme configurations
 theme: minima
+include:
+  - _includes/head.html
+
 minima:
   date_format: "%b %-d, %Y" # Example: Jan 1, 2023
 

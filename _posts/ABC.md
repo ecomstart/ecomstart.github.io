@@ -68,8 +68,5 @@ Choosing the right Shopify theme is an investment in your store’s long-term SE
 
 ---
 
-### Related Resources
-- [Impulse Shopify Theme Review](https://yourwebsite.com/impulse-shopify-theme-review)
-- [Pipeline Shopify Theme Review](https://yourwebsite.com/pipeline-shopify-theme-review)
-- [Best Shopify Theme for Mobile](https://yourwebsite.com/best-shopify-theme-for-mobile)
+
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Shopify Themes for SEO
+---
+
+
 # Shopify Themes for SEO: Boost Your Store's Visibility
 
 Search Engine Optimization (SEO) is critical for driving organic traffic to your Shopify store. Choosing the right theme can give you a significant edge in improving your store's SEO performance. In this guide, we’ll explore some of the **best Shopify themes for SEO** and the key features to look for when selecting a theme.

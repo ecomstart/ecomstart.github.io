@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-About Us
+**About Us**
+
 At Ecomstart, we specialize in helping businesses create successful online stores. From eCommerce development to digital marketing, our solutions are tailored to drive growth and innovation. With a team of experts, we guide you through the complex world of eCommerce to achieve sustainable success. Partner with us to unlock your business's full potential.
 
-Contact Image
-Contact Us
+**Contact Us**
+
 Address: 19F, Viwaseen Tower, 48 To Huu Str., Trung Van Ward, Nam Tu Liem Dist., Hanoi, Vietnam
 Phone: +84 983 513 599
 Email: hello@ecomstart.io

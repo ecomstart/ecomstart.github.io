@@ -1,9 +1,9 @@
-title: Your Site Title
-email: your-email@example.com
+title: eComStart
+email: hello@ecomstart.io
 description: >- 
-  A simple description of your site.
+  Your one-stop shop for Shopify knowledge
 baseurl: "" # Leave blank for root or set for subdirectory
-url: "https://your-username.github.io" # Update with your site URL
+url: "https://ecomstart.github.io" # Update with your site URL
 
 # Minima theme configurations
 theme: minima

@@ -12,7 +12,7 @@ One of the most frequently asked questions by Shopify users is whether they can 
 
 When you purchase a domain through Shopify, you technically own that domain. Shopify acts as a domain registrar, facilitating your purchase and renewal. However, the rights to the domain belong to you as long as it remains active and renewed. This means that even if you cancel your Shopify subscription, your domain can still be managed and transferred elsewhere.
 
->> Learn more about how to start using Shopify with just $1: https://diigo.com/0y607x
+👉 Learn more about how to start using Shopify with just $1: https://diigo.com/0y607x
 
 ## Steps to Keep Your Domain After Canceling Shopify
 
@@ -44,7 +44,7 @@ If you don’t transfer or point your domain before canceling your Shopify accou
 
 Your domain is more than just an address; it’s a representation of your brand and an essential asset for maintaining customer trust. By retaining control over it, you ensure continuity and avoid disruptions to your online identity.
 
->> For insights into Shopify’s low-cost $1 plan and how it benefits new merchants, visit: [eComStart Shopify $1 for 3 months](https://ecomstart.io/shopify-1-dollar/) review
+👉 For insights into Shopify’s low-cost $1 plan and how it benefits new merchants, visit: [eComStart Shopify $1 for 3 months](https://ecomstart.io/shopify-1-dollar/) review
 
 ## Shopify Domain Management: Smooth Transitions
 
